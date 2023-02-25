@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+        <string name="Zodiac1">Taurus</string>
+        <string name="Zodiac2">Gemini</string>
+        <string name="Zodiac3">Cancer</string>
+        <string name="Zodiac4">Leo</string>
+        <string name="Zodiac5">Virgo</string>
+        <string name="Zodiac6">Libra</string>
+        <string name="Zodiac7">Scorpio</string>
+        <string name="Zodiac8">Sagittarius</string>
+        <string name="Zodiac9">Capricorn</string>
+        <string name="Zodiac10">Aquarius</string>
+        <string name="Zodiac11">Pisces</string>
+        <string name="Zodiac12">Aries</string>
+</resources>
